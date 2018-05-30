@@ -5,3 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZTESTOFFPROG.
 write 'Hello world'.
+write 'Hello from github.com'.
